@@ -89,3 +89,5 @@ function displayContinentOptions() {
         continentSelect.append(continentEl);
     }
 }
+
+//test
